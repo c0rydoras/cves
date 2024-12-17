@@ -7,3 +7,4 @@
 | [CVE-2024-43105](https://nvd.nist.gov/vuln/detail/CVE-2024-43105) | [CWE-400](https://cwe.mitre.org/data/definitions/400.html)   |
 | [CVE-2024-37301](https://nvd.nist.gov/vuln/detail/CVE-2024-37301) | [CWE-1336](https://cwe.mitre.org/data/definitions/1336.html) |
 | [CVE-2024-47003](https://nvd.nist.gov/vuln/detail/CVE-2024-47003) | -                                                            |
+| [CVE-2024-54083](https://nvd.nist.gov/vuln/detail/CVE-2024-54083) | [CWE-1287](https://cwe.mitre.org/data/definitions/1287.html) |
